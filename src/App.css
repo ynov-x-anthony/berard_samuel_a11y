@@ -1,20 +1,20 @@
 .page { background: #ffffff; }
 h1 { color: #2a2a2a; }
-.subtitle { color: #aaaaaa; } /* trop clair : ~2.3:1 */
+.subtitle { color: #595959; }
 
 .card {
-  border: 1px solid #eee;
+  border: 1px solid #d1d5db;
   border-radius: 8px;
   padding: 1.2rem;
   margin-bottom: 1rem;
 }
-.label { color: #999999; font-size: .85rem; } /* ~2.8:1 */
+.label { color: #595959; font-size: .85rem; }
 .value { color: #1a1a1a; font-weight: 600; }
-.hint { color: #bbbbbb; font-size: .9rem; } /* ~1.8:1 */
+.hint { color: #595959; font-size: .9rem; }
 
 .btn-primary {
-  background: #6fa8dc; /* bleu clair */
-  color: #ffffff;      /* texte blanc sur bleu clair : ~2.1:1 */
+  background: #005a9c;
+  color: #ffffff;
   border: none;
   padding: .6rem 1.1rem;
   border-radius: 6px;
